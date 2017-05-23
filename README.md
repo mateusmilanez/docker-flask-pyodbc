@@ -1,6 +1,7 @@
 # docker-flask-pyodbc
 
-This repository have a Dockerfile that extends the docker image jfloff/alpine-python:2.7-slim, this upgrade supports the flask admin framework with pyodbc.
+This repository have a Dockerfile that extends the docker image [jfloff/alpine-python:2.7-slim](https://github.com/jfloff/alpine-python")
+, this upgrade supports the flask admin framework with pyodbc.
 
 To connect your flask project in Microsoft SQL database use the syntax:
 
